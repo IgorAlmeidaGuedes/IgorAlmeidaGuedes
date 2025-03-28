@@ -45,12 +45,7 @@
 
 
 ###
-</div>
 
-<div style="display: inline_block">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorAlmeidaGuedes/IgorAlmeidaGuedes/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorAlmeidaGuedes/IgorAlmeidaGuedes/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgorAlmeidaGuedes/IgorAlmeidaGuedes/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+### 🌟 Meu Gráfico 3D do GitHub 🚀
+
+![Contribuições 3D](./profile-3d-contrib/profile-night-view.svg)
