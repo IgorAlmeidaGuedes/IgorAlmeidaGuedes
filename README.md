@@ -6,6 +6,12 @@
 
 ##
 
+🔖 Meus repositorios
+- [🎮 Games & Prototypes](https://github.com/stars/IgorAlmeidaGuedes/lists/games-prototypes)
+- [🎓 Academic Works](https://github.com/stars/IgorAlmeidaGuedes/lists/academic-works)
+- [🌐 Basic Web Projects](https://github.com/stars/IgorAlmeidaGuedes/lists/basic-web-projects)
+##
+
 <div align="center">
   <a href="https://github.com/Igorguedes018">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorGuedes018&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -37,7 +43,12 @@
   <a href="https://instagram.com/igor_guedes__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ígorguedes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- 
-  ![Snake animation](https://github.com/IgorGuedes018/IgorGuedes018/blob/output/github-contribution-grid-snake.svg)
- 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorAlmeidaGuedes/IgorAlmeidaGuedes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorAlmeidaGuedes/IgorAlmeidaGuedes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgorAlmeidaGuedes/IgorAlmeidaGuedes/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 </div>
