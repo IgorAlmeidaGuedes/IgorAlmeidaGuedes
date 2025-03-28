@@ -50,7 +50,7 @@
   </div>
 </div>
 
-##
+<hr>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/IgorAlmeidaGuedes/count.svg?"  />
