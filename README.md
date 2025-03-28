@@ -46,6 +46,23 @@
 
 ###
 
-### 🌟 Meu Gráfico 3D do GitHub 🚀
+<!-- Stats Section -->
 
-![Contribuições 3D](./profile-3d-contrib/profile-night-view.svg)
+<div align="center">
+  <h3 style="margin-bottom: 0; font-weight: 400;">Meus Dashboards GitHub</h3>
+  <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(My GitHub Dashboards)</p>
+
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
+  
+  <div> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorAlmeidaGuedes&layout=compact&theme=tokyonight&hide_border=true&border_radius=4" width="275" height="200"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorAlmeidaGuedes&theme=tokyonight&hide_border=true" width="525" height="200"/>
+  </div>
+</div>
+
+</br> 
+
+<!-- Trophies Section -->
+<div align="center">
+  <img style="border: none" height="150em" src="https://github-profile-trophy.vercel.app/?username=igorAlmeidaGuedes&hide_border=true&margin-w=10&theme=tokyonight&no-frame=false&no-bg=true"/>
+</div>
