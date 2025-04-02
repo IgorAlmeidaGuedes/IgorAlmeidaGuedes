@@ -11,7 +11,7 @@
 
 <!-- Sections with Icons and Descriptions -->
 <div>
-  <img align="left" src="./Extra/Images/Capelo.jpg" alt="Aprendizado" width="68px" height="65px" style="margin-right: 1em;">
+  <img align="left" src="./Extra/Images/Capelo1.png" alt="Aprendizado" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em; font-size: 14px;">UFJF - Information Systems</b></p>
   </p>
 </div>
@@ -22,11 +22,6 @@
   <img align="left" src="./Extra/Images/Email.png" alt="Contato" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em; font-size: 14px;" href="guedes.igor018@gmail.com" >Contact-me: <b>guedes.igor018@gmail.com</b></p>
 </div>
-
-- 🔭 Sistemas de Informacao UFJF
-- 📫 How to reach me: guedes.igor018@gmail.com
-
-
 
 
 <div align="center">
