@@ -61,9 +61,9 @@
 
 <!-- Skills Section -->
 <div align="center">
-  <h3 style="font-weight: 400;">🖥️ Skills</h3>
+  <h2 style="font-weight: 400;">🖥️ Skills</h2>
 
-  <h4>Advanced</h4>
+  <h3>Advanced</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/Js.png" alt="Git" width="70px" height="70px" title="Js">
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/c++.png" alt="Git" width="70px" height="70px" title="c++">
@@ -72,12 +72,12 @@
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/git.png" alt="Git" width="70px" height="70px" title="git">
   </div>
   
-  <h4>Intermediate</h4>
+  <h3>Intermediate</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/Java.png" alt="Git" width="70px" height="70px" title="java">
   </div>
   
-  <h4>Currently Learning</h4>
+  <h3>Currently Learning</h3>
   <p style="text-align: center; margin: 10px 0">
     
   </p>
