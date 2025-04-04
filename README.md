@@ -8,7 +8,7 @@
 
 <!-- Sections with Icons and Descriptions -->
 <div style="margin: 0;">
-  <img align="left" src="./Extra/Images/briefcase.png" alt="Universidade" width="68px" height="65px" style="margin-right: 1em;">
+  <img align="left" src="./Extra/Contacts/briefcase.png" alt="Universidade" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em; font-size: 14px;"><b>Software enginieer</b> - <i>Levty</i></p>
   <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200;">
     (<b>Engenheiro de sofwware</b> - <i>Levty</i>)
@@ -16,7 +16,7 @@
 </div>
 
 <div style="margin: 0;">
-  <img align="left" src="./Extra/Images/Capelo.png" alt="Universidade" width="68px" height="65px" style="margin-right: 1em;">
+  <img align="left" src="./Extra/Contacts/Capelo.png" alt="Universidade" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em; font-size: 14px;"><b>Information Systems</b> - <i>Universidade Federal de Juiz de Fora</i></p>
   <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200;">
     (<b>Sistemas de Informação</b> - <i>Universidade Federal de Juiz de Fora</i>)
@@ -26,7 +26,7 @@
 </br>
 
 <div>
-  <img align="left" src="./Extra/Images/Email.png" alt="contato" width="68px" height="65px" style="margin-right: 1em;">
+  <img align="left" src="./Extra/Contacts/Email.png" alt="contato" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em; font-size: 14px;">
     Contact-me: <a href="mailto:guedes.igor018@gmail.com"><b>guedes.igor018@gmail.com</b></a>
   </p>
