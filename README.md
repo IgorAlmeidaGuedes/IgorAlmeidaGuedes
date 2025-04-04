@@ -76,6 +76,7 @@
   <h3>Intermediate</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/Java.png" alt="Git" width="70px" height="70px" title="java">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/Node.png" alt="Git" width="70px" height="70px" title="Node">
   </div>
   
   <h3>Currently Learning</h3>
