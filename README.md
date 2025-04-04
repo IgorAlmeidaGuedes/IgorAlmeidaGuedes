@@ -14,7 +14,7 @@
   <img align="left" src="./Extra/Images/briefcase.png" alt="Universidade" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em; font-size: 14px;"><b>Software enginieer</b> - <i>Levty</i></p>
   <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200;"> 
-    (<b>Engenheiro de sotfware</b> - <i>Levty</i>)
+    (<b>Engenheiro de sofwware</b> - <i>Levty</i>)
   </p>
 </div>
 
@@ -30,18 +30,20 @@
 
 <div>
   <img align="left" src="./Extra/Images/Email.png" alt="contato" width="68px" height="65px" style="margin-right: 1em;">
-  <p style="margin-left: 3em; font-size: 14px;"  href="guedes.igor018@gmail.com" >
-    Contact-me: <b>guedes.igor018@gmail.com</b>
+  <p style="margin-left: 3em; font-size: 14px;">
+    Contact-me: <a href="mailto:guedes.igor018@gmail.com"><b>guedes.igor018@gmail.com</b></a>
   </p>
-  <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200;" href="guedes.igor018@gmail.com">
-    (Entre em contato comigo: <b>guedes.igor018@gmail.com</b>)
+  <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200;">
+    (Entre em contato comigo: <a href="mailto:guedes.igor018@gmail.com"><b>guedes.igor018@gmail.com</b></a>)
   </p>
 </div>
 
+<hr>
 
+<!-- repositories Section -->
 <div align="center">
-  <h2>🔖 Meus Repositórios</h2>
-
+  <h3 style="font-weight: 400;">📓 My repositories</h3>
+  
   <p style="text-align: center; margin: 10px 0">
     <a href="https://github.com/stars/IgorAlmeidaGuedes/lists/games-prototypes" style="text-decoration: none">🎮 Games & Prototypes</a>
   </p>
@@ -57,8 +59,36 @@
 
 <hr>
 
-### Skills:
+<!-- Skills Section -->
+<div align="center">
+  <h3 style="font-weight: 400;">🖥️ Skills</h3>
 
+  <h4>Advanced</h4>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/c++.png" alt="Git" width="70px" height="70px" title="c++">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/css1.svg" alt="Git" width="70px" height="70px" title="c++">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/css2.png" alt="Git" width="70px" height="70px" title="c++">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/js.png" alt="Git" width="70px" height="70px" title="c++">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/html.svg" alt="Git" width="70px" height="70px" title="c++">
+  </div>
+  
+  <h4>Intermediate</h4>
+  <p style="text-align: center; margin: 10px 0">
+   
+  </p>
+  
+  <h4>Currently Learning</h4>
+  <p style="text-align: center; margin: 10px 0">
+    
+  </p>
+</div>
+
+
+
+
+
+<!-- Skills Section -->
+<h3>TESTE</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Igor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -89,7 +119,7 @@
 
 <!-- Stats Section -->
 <div align="center">
-  <h3 style="margin-bottom: 0; font-weight: 400;">Meus Dashboards GitHub</h3>
+  <h3 style="margin-bottom: 0; font-weight: 400;">My GitHub Dashboards</h3>
 
   ![Status](./profile-3d-contrib/profile-night-view.svg)
   
