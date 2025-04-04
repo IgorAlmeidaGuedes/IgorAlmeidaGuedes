@@ -70,6 +70,7 @@
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/Database.png" alt="Git" width="70px" height="70px" title="Database">
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/SQL.png" alt="Git" width="70px" height="70px" title="SQL">
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/git.png" alt="Git" width="70px" height="70px" title="git">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/Postman.png" alt="Git" width="70px" height="70px" title="Postman">
   </div>
   
   <h3>Intermediate</h3>
@@ -78,33 +79,9 @@
   </div>
   
   <h3>Currently Learning</h3>
-  <p style="text-align: center; margin: 10px 0">
-    
-  </p>
-</div>
-
-
-
-
-
-<!-- Skills Section -->
-<h3>TESTE</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Igor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Igor-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Igor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
-</div>
-
-
-### learning:
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Igor-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/Ts.png" alt="Git" width="70px" height="70px" title="Ts">
+  </div>
 </div>
 
 ##
