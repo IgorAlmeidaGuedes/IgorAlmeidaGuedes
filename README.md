@@ -65,17 +65,17 @@
 
   <h4>Advanced</h4>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/Js.png" alt="Git" width="70px" height="70px" title="Js">
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/c++.png" alt="Git" width="70px" height="70px" title="c++">
-    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/css1.svg" alt="Git" width="70px" height="70px" title="c++">
-    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/css2.png" alt="Git" width="70px" height="70px" title="c++">
-    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/js.png" alt="Git" width="70px" height="70px" title="c++">
-    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/html.png" alt="Git" width="70px" height="70px" title="c++">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/Database.png" alt="Git" width="70px" height="70px" title="Database">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/SQL.png" alt="Git" width="70px" height="70px" title="SQL">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/git.png" alt="Git" width="70px" height="70px" title="git">
   </div>
   
   <h4>Intermediate</h4>
-  <p style="text-align: center; margin: 10px 0">
-   
-  </p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/Java.png" alt="Git" width="70px" height="70px" title="java">
+  </div>
   
   <h4>Currently Learning</h4>
   <p style="text-align: center; margin: 10px 0">
