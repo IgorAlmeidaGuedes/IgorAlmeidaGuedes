@@ -69,7 +69,7 @@
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/css1.svg" alt="Git" width="70px" height="70px" title="c++">
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/css2.png" alt="Git" width="70px" height="70px" title="c++">
     <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/js.png" alt="Git" width="70px" height="70px" title="c++">
-    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/html.svg" alt="Git" width="70px" height="70px" title="c++">
+    <img style="cursor: pointer; margin: 0.5em;" src="Extra/Skills/html.png" alt="Git" width="70px" height="70px" title="c++">
   </div>
   
   <h4>Intermediate</h4>
